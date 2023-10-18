@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6088DF4D-B75D-4FE5-A344-FB077120B041}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="selenium-ps/1CRM.UiTests.cs">
+    <Files>
+      <File FileName="selenium-ps/UnitTest1.cs" Line="21" Column="47" />
+      <File FileName="selenium-ps/PageObjectModels/LoginPage.cs" Line="12" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="selenium-ps" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.1CRM PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
